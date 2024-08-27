@@ -1,3 +1,5 @@
 This is an example
 updating this file
 check from other machine for this update after commit
+
+>>>>>>> 3b8dc5399d6690d9f759b239039913ac3b09bce5
