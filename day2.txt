@@ -2,4 +2,12 @@ this is a simple text file
 
 updated in copy1 branch
 
+<<<<<<< HEAD
+
+
+
+
+updated by dev2
+=======
 updated by dev1
+>>>>>>> origin/main
