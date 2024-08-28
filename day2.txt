@@ -11,3 +11,13 @@ updated by dev2
 =======
 updated by dev1
 >>>>>>> origin/main
+this is a simple text file
+
+updated in copy1 branch
+
+
+Final update by dev1 - 
+
+
+updated by dev2
+updated by dev1
